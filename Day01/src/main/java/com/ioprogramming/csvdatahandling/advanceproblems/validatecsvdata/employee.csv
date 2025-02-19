@@ -1,0 +1,5 @@
+Name,Email,Phone
+Alice,alice@example.com,9876543210
+Bob,bob_example.com,987654321  // Invalid Email and Phone
+Charlie,charlie@company.com,1234567890
+David,david@domain,987654321   // Invalid Email and Phone
